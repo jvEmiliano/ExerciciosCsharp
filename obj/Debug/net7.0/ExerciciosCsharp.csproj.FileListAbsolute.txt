@@ -1,0 +1,15 @@
+/home/joao/Desktop/ExerciciosCsharp/bin/Debug/net7.0/ExerciciosCsharp
+/home/joao/Desktop/ExerciciosCsharp/bin/Debug/net7.0/ExerciciosCsharp.deps.json
+/home/joao/Desktop/ExerciciosCsharp/bin/Debug/net7.0/ExerciciosCsharp.runtimeconfig.json
+/home/joao/Desktop/ExerciciosCsharp/bin/Debug/net7.0/ExerciciosCsharp.dll
+/home/joao/Desktop/ExerciciosCsharp/bin/Debug/net7.0/ExerciciosCsharp.pdb
+/home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ExerciciosCsharp.csproj.AssemblyReference.cache
+/home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ExerciciosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ExerciciosCsharp.AssemblyInfoInputs.cache
+/home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ExerciciosCsharp.AssemblyInfo.cs
+/home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ExerciciosCsharp.csproj.CoreCompileInputs.cache
+/home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ExerciciosCsharp.dll
+/home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/refint/ExerciciosCsharp.dll
+/home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ExerciciosCsharp.pdb
+/home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ExerciciosCsharp.genruntimeconfig.cache
+/home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ref/ExerciciosCsharp.dll
