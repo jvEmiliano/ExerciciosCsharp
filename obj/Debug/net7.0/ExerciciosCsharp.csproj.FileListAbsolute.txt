@@ -13,3 +13,17 @@
 /home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ExerciciosCsharp.pdb
 /home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ExerciciosCsharp.genruntimeconfig.cache
 /home/joao/Desktop/ExerciciosCsharp/obj/Debug/net7.0/ref/ExerciciosCsharp.dll
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\bin\Debug\net7.0\ExerciciosCsharp.exe
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\bin\Debug\net7.0\ExerciciosCsharp.deps.json
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\bin\Debug\net7.0\ExerciciosCsharp.runtimeconfig.json
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\bin\Debug\net7.0\ExerciciosCsharp.dll
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\bin\Debug\net7.0\ExerciciosCsharp.pdb
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.AssemblyInfoInputs.cache
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.AssemblyInfo.cs
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.dll
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\obj\Debug\net7.0\refint\ExerciciosCsharp.dll
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.pdb
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.genruntimeconfig.cache
+C:\Users\arauj\OneDrive\Documentos\Repositorios\ExerciciosCsharp\obj\Debug\net7.0\ref\ExerciciosCsharp.dll

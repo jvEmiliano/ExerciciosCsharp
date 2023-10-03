@@ -35,6 +35,7 @@ class Program
             {"0023 - Primeira e última ocorrência de uma string", Exercicio0023.Executar},
             {"0024 - Primeiro e último nome de uma pessoa", Exercicio0024.Executar},
             {"0025 - Jogo da Adivinhação v.1.0", Exercicio0025.Executar},
+            {"0026 - Radar eletrônico", Exercicio0026.Executar},
         });
 
         central.SelecionarEExecutar();
