@@ -36,8 +36,10 @@ class Program
             {"0024 - Primeiro e último nome de uma pessoa", Exercicio0024.Executar},
             {"0025 - Jogo da Adivinhação v.1.0", Exercicio0025.Executar},
             {"0026 - Radar eletrônico", Exercicio0026.Executar},
+            {"0027 - Par ou Ímpar?", Exercicio0027.Executar},
         });
 
         central.SelecionarEExecutar();
     }
 }
+                    
