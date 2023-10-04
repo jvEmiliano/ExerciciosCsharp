@@ -37,6 +37,7 @@ class Program
             {"0025 - Jogo da Adivinhação v.1.0", Exercicio0025.Executar},
             {"0026 - Radar eletrônico", Exercicio0026.Executar},
             {"0027 - Par ou Ímpar?", Exercicio0027.Executar},
+            {"0028 - Custo da Viagem", Exercicio0028.Executar},
         });
 
         central.SelecionarEExecutar();
