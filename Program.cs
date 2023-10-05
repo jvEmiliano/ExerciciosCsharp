@@ -38,6 +38,7 @@ class Program
             {"0026 - Radar eletrônico", Exercicio0026.Executar},
             {"0027 - Par ou Ímpar?", Exercicio0027.Executar},
             {"0028 - Custo da Viagem", Exercicio0028.Executar},
+            {"0029 - Maior e menor valores", Exercicio0029.Executar},
         });
 
         central.SelecionarEExecutar();
