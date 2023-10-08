@@ -40,6 +40,7 @@ class Program
             {"0028 - Custo da Viagem", Exercicio0028.Executar},
             {"0029 - Maior e menor valores", Exercicio0029.Executar},
             {"0030 - Aumentos múltiplos", Exercicio0030.Executar},
+            {"0031 - Aprovando Empréstimo", Exercicio0031.Executar},
         });
 
         central.SelecionarEExecutar();
