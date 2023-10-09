@@ -41,6 +41,7 @@ class Program
             {"0029 - Maior e menor valores", Exercicio0029.Executar},
             {"0030 - Aumentos múltiplos", Exercicio0030.Executar},
             {"0031 - Aprovando Empréstimo", Exercicio0031.Executar},
+            {"0032 - Conversor de Bases Numéricas", Exercicio0032.Executar},
         });
 
         central.SelecionarEExecutar();
