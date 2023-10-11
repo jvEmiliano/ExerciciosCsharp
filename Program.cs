@@ -42,6 +42,7 @@ class Program
             {"0030 - Aumentos múltiplos", Exercicio0030.Executar},
             {"0031 - Aprovando Empréstimo", Exercicio0031.Executar},
             {"0032 - Conversor de Bases Numéricas", Exercicio0032.Executar},
+            {"0033 - Comparando números", Exercicio0033.Executar},
         });
 
         central.SelecionarEExecutar();
