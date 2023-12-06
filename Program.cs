@@ -44,6 +44,7 @@ class Program
             {"0032 - Conversor de Bases Numéricas", Exercicio0032.Executar},
             {"0033 - Comparando números", Exercicio0033.Executar},
             {"0034 - Alistamento Militar", Exercicio0034.Executar},
+            {"0035 - Aquele clássico da Média", Exercicio0035.Executar},
         });
 
         central.SelecionarEExecutar();
