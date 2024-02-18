@@ -45,6 +45,7 @@ class Program
             {"0033 - Comparando números", Exercicio0033.Executar},
             {"0034 - Alistamento Militar", Exercicio0034.Executar},
             {"0035 - Aquele clássico da Média", Exercicio0035.Executar},
+            {"0036 - Classificando Atletas",  Exercicio0036.Executar},
         });
 
         central.SelecionarEExecutar();
